@@ -1,166 +1,77 @@
-<div align="center">
-
-# こんにちは 👋 I'm Ikhmal Hanif
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Backend+Developer;Cloudflare+Enthusiast;AI+%26+Machine+Learning;Cybersecurity;Building+Scalable+Products" />
-
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBqazJuMWk2ZjU3MzhmanRhaG5qOXplc3M5am1naW13czVuYnRpNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LML5ldpTKLPelFtBfY/giphy.gif"  />
 </div>
 
-<table>
-<tr>
+###
 
-<td width="38%" valign="top">
-
-```text
-$ whoami
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣷⣄
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣆
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⡿⠛⠻⣿⣿⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠋⠀⠀⠀⠈⣿⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⡇⠀◉⠀⠀◉⠀⣿⡇
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣇⠀⠀⠉⠀⠀⣸⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣦⣀⣀⣠⣿⡿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⣿⣿⠿⠋
-```
-
-```yaml
-Name      : Ikhmal Hanif
-Role      : Backend Developer
-Location  : Malaysia 🇲🇾
-Education : UiTM Shah Alam
-
-Focus:
-  - Backend
-  - AI / ML
-  - Cloudflare
-  - Cyber Security
-
-Currently:
-  - Memoroll
-  - Spendy
-  - Learning VPS & Docker
-```
-
-> *"Discipline today. Freedom tomorrow."*
-
-</td>
-
-<td width="62%" valign="top">
-
-## About Me
-
-🎓 Final Year Computer Science Student
-
-💻 Backend Developer
-
-☁️ Cloudflare Workers • VPS
-
-🤖 AI & Machine Learning
-
-🔒 Cyber Security Enthusiast
-
-🏃 Runner
-
----
-
-## Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
-
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
-
----
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-black?style=for-the-badge&logo=cloudflare)
-
----
-
-### Frontend
-
-React • Vite • TailwindCSS • shadcn/ui
-
----
-
-### Database
-
-PostgreSQL • SQLite • Supabase • Cloudflare D1
-
----
-
-### Tools
-
-Git • Docker • Linux • Railway • Cloudflare • R2
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🧠 Memoroll | AI-powered digital memory vault |
-| 💰 Spendy | Smart expense tracking |
-| 📷 Camera Rental | Full-stack booking platform |
-| 🏸 Badminton ML | Predict badminton match outcomes |
-
----
-
-# 🌐 Connect
-
-<p align="left">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### 継続は力なり
-
-*Consistency is power.*
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
-
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/imalanep_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="ikhmalhanif60@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:mal49?theme=asoul&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h1 data-importer="text" align="center">Hellooooo!!</h1>
+
+###
+
+<h3 data-importer="text" align="left">💫 About Me</h3>
+
+###
+
+<p data-importer="text" align="left">I'm a 24-year-old full-stack engineer based in Malaysia, currently finishing my Computer Science degree at UiTM Shah Alam. I work with React, Next.js, Go, and Cloudflare Workers, and I'm the developer behind a UiTM timetable-to-wallpaper generator that turns class schedules into phone wallpapers. I also compete in CTF challenges for fun and I'm always open to freelance or collaboration opportunities.</p>
+
+###
+
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/mal49/mal49/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/mal49/mal49/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mal49&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
+</div>
+
+###

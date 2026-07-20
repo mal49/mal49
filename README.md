@@ -2,11 +2,11 @@
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBqazJuMWk2ZjU3MzhmanRhaG5qOXplc3M5am1naW13czVuYnRpNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LML5ldpTKLPelFtBfY/giphy.gif" />
 </div>
 
-<h1 align="center">Hey, I'm Mal 👋</h1>
+<h1 align="center">Hey, I'm Ikhmal 👋</h1>
 <h3 align="center">Full-Stack Engineer · Final-Year CS Student @ UiTM Shah Alam</h3>
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+  <a href="https://linkedin.com/in/ikhmalhanif" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/imalanep_/" target="_blank">
@@ -25,7 +25,7 @@
 
 ### 💫 About Me
 
-I'm a full-stack engineer based in Malaysia, wrapping up my Computer Science (Honours) degree at **UiTM Shah Alam**. My FYP predicts badminton match outcomes using supervised ML (Decision Tree, Random Forest, XGBoost). By day I'm an **IT Executive** maintaining **CLore**, a Go + React e-commerce/clinic management platform, and I take on freelance work under **Nekolabs**. Right now I'm heads-down building **Memoroll**, a photobooth SaaS for Malaysian event operators. I also compete in CTF challenges — 2nd Runner-Up at Flag Hunt 2025 — and I'm training for my next half marathon in between shipping code.
+I'm a full-stack engineer based in Malaysia, wrapping up my Computer Science (Honours) degree at **UiTM Shah Alam**. My FYP predicts badminton match outcomes using supervised ML (Decision Tree, Random Forest, XGBoost). By day I'm an **IT Executive**, and I take on freelance work under **Nekolabs**. Right now I'm heads-down building **Memoroll**, a photobooth SaaS for Malaysian event operators. I also compete in CTF challenges — 2nd Runner-Up at Flag Hunt 2025.
 
 ### 🛠 Languages & Tools
 
@@ -50,15 +50,6 @@ I'm a full-stack engineer based in Malaysia, wrapping up my Computer Science (Ho
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
 </div>
-
-### 🔭 What I'm Building
-
-| Project | Description |
-|---|---|
-| **Memoroll** | Photobooth SaaS for Malaysian event operators — PocketBase, Litestream → R2 backups, ToyyibPay/Billplz, React Native/Expo |
-| **CLore** | E-commerce & clinic management platform (Go + React) — infra on Railway, Cloudflare, Resend, Twilio, NinjaVan |
-| **UiTM Timetable Wallpaper** | Turns class timetables into ready-to-use phone wallpapers (Next.js + Cloudflare Workers) |
-| **FYP** | Badminton match outcome prediction using Decision Tree, Random Forest & XGBoost |
 
 ### 🔥 My Stats
 

@@ -59,4 +59,4 @@ I'm a full-stack engineer based in Malaysia, wrapping up my Computer Science (Ho
   <img src="https://streak-stats.demolab.com?user=mal49&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph" />
 </div>
 
-<p align="center"><i>Open to industrial training opportunities and freelance collaborations — feel free to reach out!</i></p>
+<p align="center"><i>Open to freelance collaborations — feel free to reach out!</i></p>

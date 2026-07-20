@@ -1,78 +1,77 @@
-<h1 align="center">Hi, I'm Ikhmal Hanif 👋</h1>
-<h3 align="center">IT Executive · Final-Year CS Student · Indie Builder</h3>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBqazJuMWk2ZjU3MzhmanRhaG5qOXplc3M5am1naW13czVuYnRpNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LML5ldpTKLPelFtBfY/giphy.gif"  />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+Memoroll+%F0%9F%93%B8;Maintaining+CLore+%E2%9A%99%EF%B8%8F;Training+for+my+next+half+marathon+%F0%9F%8F%83;CTF+player+%E2%80%A2+Freelance+dev+(Nekolabs)" alt="Typing SVG" />
-</p>
+###
 
----
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/imalanep_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="ikhmalhanif60@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-### 🚀 About Me
+###
 
-- 🎓 Final-year **Computer Science (Honours)** student at **UiTM Shah Alam**, working on my FYP: predicting badminton match outcomes with supervised ML (Decision Tree, Random Forest, XGBoost)
-- 💼 **IT Executive**, maintaining and evolving **CLore** — a Go + React e-commerce/clinic management platform
-- 🧪 Freelance developer under **Nekolabs**
-- 🛠️ Currently building **Memoroll** — a photobooth SaaS for Malaysian event operators (PocketBase + Vultr + React Native/Expo)
-- 🚩 CTF player — 2nd Runner-Up at Flag Hunt 2025 (UCSI University)
-- 🏃 Training for a half marathon, chasing a 1:40–1:45 finish
-- 🌱 Into indie SaaS, AI agents, and Malaysian market-fit products (DuitNow QR, ToyyibPay/Billplz, local payments)
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:mal49?theme=asoul&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
----
+###
 
-### 🧰 Tech Stack
+<br clear="both">
 
-**Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-</p>
+<h1 data-importer="text" align="center">Hellooooo!!</h1>
 
-**Backend & Infra**
-<p>
-  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hono.js-E36002?style=flat-square&logo=hono&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PocketBase-B8DBE4?style=flat-square&logo=pocketbase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vultr-007BFC?style=flat-square&logo=vultr&logoColor=white" />
-</p>
+###
 
-**ML / Data**
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-006ACC?style=flat-square" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-</p>
+<h3 data-importer="text" align="left">💫 About Me</h3>
 
----
+###
 
-### 🔭 What I'm Building
+<p data-importer="text" align="left">I'm a 24-year-old full-stack engineer based in Malaysia, currently finishing my Computer Science degree at UiTM Shah Alam. I work with React, Next.js, Go, and Cloudflare Workers, and I'm the developer behind a UiTM timetable-to-wallpaper generator that turns class schedules into phone wallpapers. I also compete in CTF challenges for fun and I'm always open to freelance or collaboration opportunities.</p>
 
-| Project | Description |
-|---|---|
-| **Memoroll** | Photobooth SaaS for Malaysian event operators — PocketBase, Litestream → R2 backups, ToyyibPay/Billplz, React Native/Expo |
-| **CLore** | E-commerce & clinic management platform (Go + React) — infra on Railway, Cloudflare, Resend, Twilio, NinjaVan |
-| **FYP** | Badminton match outcome prediction using Decision Tree, Random Forest & XGBoost |
+###
 
----
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
-### 📫 Let's Connect
+###
 
-Open to industrial training opportunities and freelance collaborations — feel free to reach out!
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
 
-<!--
-📌 Tip: swap the placeholders below with your actual links/handles
--->
-<p>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
+###
 
----
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
-<p align="center"><i>⭐️ From <b>Ikhmal Hanif</b> — Shah Alam, Malaysia</i></p>
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/mal49/mal49/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/mal49/mal49/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mal49&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
+</div>
+
+###

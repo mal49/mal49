@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBqazJuMWk2ZjU3MzhmanRhaG5qOXplc3M5am1naW13czVuYnRpNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LML5ldpTKLPelFtBfY/giphy.gif" />
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBqazJuMWk2ZjU3MzhmanRhaG5qOXplc3M5am1naW13czVuYnRpNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LML5ldpTKLPelFtBfY/giphy.gif" alt="intro gif" />
 </div>
 
 <h1 align="center">Hey, I'm Ikhmal 👋</h1>
@@ -17,11 +17,13 @@
   </a>
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://count.getloli.com/@mal49?theme=asoul&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
+  <img src="https://count.getloli.com/@mal49?theme=asoul&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="visitor count" />
 </div>
 
-<br clear="both">
+<br />
 
 ### 💫 About Me
 
@@ -29,34 +31,26 @@ I'm a full-stack engineer based in Malaysia, wrapping up my Computer Science (Ho
 
 ### 🛠 Languages & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg" height="40" alt="firebase" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+</p>
 
 ### 🔥 My Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mal49/mal49/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&order=1" height="250" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/mal49/mal49/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=mal49&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mal49&show_icons=true&include_all_commits=true&hide_rank=true&theme=onedark&hide_border=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mal49&layout=compact&langs_count=5&card_width=320&theme=onedark&hide_border=true" alt="Top languages" />
+  <br />
+  <img height="180" src="https://streak-stats.demolab.com?user=mal49&mode=daily&theme=onedark&hide_border=false&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 </div>
 
 <p align="center"><i>Open to freelance collaborations — feel free to reach out!</i></p>

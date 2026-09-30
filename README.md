@@ -18,8 +18,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/mal49?style=flat-square&logo=github&color=7aa2f7&labelColor=1a1b27" alt="followers" />
-  <img src="https://img.shields.io/github/stars/mal49?affiliations=OWNER&style=flat-square&logo=github&color=bb9af7&labelColor=1a1b27&label=stars" alt="stars" />
-  <img src="https://img.shields.io/github/created-at/mal49?style=flat-square&logo=github&color=9ece6a&labelColor=1a1b27&label=joined" alt="joined" />
+  <img src="https://img.shields.io/github/created-at/mal49/mal49?style=flat-square&logo=github&color=9ece6a&labelColor=1a1b27&label=profile%20since" alt="profile since" />
+  <img src="https://img.shields.io/github/last-commit/mal49/mal49?style=flat-square&logo=github&color=bb9af7&labelColor=1a1b27&label=last%20update" alt="last update" />
   <img src="https://count.getloli.com/@mal49?theme=asoul&padding=7&scale=0.5&align=top&pixelated=1&darkmode=auto" alt="visitors" />
 </div>
 
@@ -67,24 +67,25 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=mal49&show_icons=true&include_all_commits=true&hide_rank=false&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub stats" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mal49&layout=donut-vertical&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top languages" />
+  <img height="200" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+  <img height="200" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
 </div>
 
 <div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=mal49&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
 </div>
 
-## 🏆 Trophies
+## 💻 Languages
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mal49&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
+  <img height="200" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
+  <img height="200" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
 </div>
 
-## 📈 Contribution Activity
+## ⏰ Productive Time
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mal49&theme=tokyo-night&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=ffffff&area=true&area_color=7aa2f7&hide_border=true&radius=8" alt="Contribution graph" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
 </div>
 
 <br />

@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/github/followers/mal49?style=flat-square&logo=github&color=7aa2f7&labelColor=1a1b27" alt="followers" />
   <img src="https://img.shields.io/github/created-at/mal49/mal49?style=flat-square&logo=github&color=9ece6a&labelColor=1a1b27&label=profile%20since" alt="profile since" />
   <img src="https://img.shields.io/github/last-commit/mal49/mal49?style=flat-square&logo=github&color=bb9af7&labelColor=1a1b27&label=last%20update" alt="last update" />
+  <br />
   <img src="https://count.getloli.com/@mal49?theme=asoul&padding=7&scale=0.5&align=top&pixelated=1&darkmode=auto" alt="visitors" />
 </div>
 

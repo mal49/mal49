@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/mal49">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&lines=Building+Memoroll%2C+a+photobooth+SaaS;Founder+of+Nekolabs;Predicting+badminton+matches+with+ML;2nd+Runner-Up%2C+Flag+Hunt+2025 alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&lines=Building+Memoroll%2C+a+photobooth+SaaS;Founder+of+Nekolabs;Predicting+badminton+matches+with+ML;2nd+Runner-Up%2C+Flag+Hunt+2025" alt="typing intro" />
   </a>
 </div>
 
